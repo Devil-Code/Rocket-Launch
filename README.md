@@ -11,12 +11,17 @@ This is a simple computer graphics project simulating a rocket launch using C an
 ## Screenshots
 
 ![Rocket Launch](screenshots/launch.png)
+
 *Rocket taking off from the ground*
 
+
 ![Rocket Ascending](screenshots/sky.png)
+
 *Rocket ascending into the sky*
 
+
 ![Rocket in Space](screenshots/space.png)
+
 *Rocket reaching into the space*
 
 ## Prerequisites
